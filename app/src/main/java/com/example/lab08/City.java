@@ -7,6 +7,7 @@ public class City {
     public City(String city, String province){
         this.city = city;
         this.province = province;
+
     }
 
     public String getCityName(){
