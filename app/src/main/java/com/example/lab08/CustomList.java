@@ -18,6 +18,13 @@ public class CustomList {
         return cities.contains(city);
     }
 
+    public void deleteCity(City city) {
+
+    }
+
+    public int countCities() {
+        return 0;
+    }
 
     // Will be implemented later using TDD (leave blank for now)
     // public boolean hasCity(City city) { ... }
